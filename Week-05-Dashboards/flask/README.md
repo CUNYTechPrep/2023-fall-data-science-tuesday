@@ -1,10 +1,12 @@
-# Building a Dashboard using Flask
-### Project Directory
-1. app.py
-2. static folder
-   - graph1.png (Will be generated after running app.py)
-   - graph2.png (Will be generated after running app.py)
-4. templates
-   - index.html
-### [Cats vs Dogs]([https://getbootstrap.com/](https://www.kaggle.com/datasets/sujaykapadnis/cats-vs-dogs))
-'It is a tabular dataset of cats and dogs and other things regarding the same'
+# Building an Flask App
+
+## [Flask Documentation](https://flask.palletsprojects.com/en/1.1.x/quickstart/)
+## [Bootstrap Documentation](https://getbootstrap.com/docs/4.3/components/alerts/)
+[Bootstrap Themes](https://getbootstrap.com/docs/4.0/examples/)
+
+### Sources
+0. Some of this code and instructions were adapted from [this tutorial blog](https://blog.cambridgespark.com/deploying-a-machine-learning-model-to-the-web-725688b851c7). 
+0. The ploty charts section was provided by [Alan Jones via their tutorial](https://towardsdatascience.com/web-visualization-with-plotly-and-flask-3660abf9c946)
+
+
+
