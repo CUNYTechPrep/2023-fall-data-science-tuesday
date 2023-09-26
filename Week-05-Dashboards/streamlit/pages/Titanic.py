@@ -2,19 +2,6 @@ import streamlit as st
 import pandas as pd
 import pickle
 import plotly.express as px
-import os
-from clean_data import clean_string
-
-
-
-print('='*99)
-print( os.getcwd() )
-print('='*99)
-
-print(clean_string())
-print('='*99)
-
-
 
 # Load the model you already created...
 model = pickle.load( open('models/model.pkl', 'rb') )
