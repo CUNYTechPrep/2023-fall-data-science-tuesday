@@ -18,10 +18,10 @@ with col1:
     img = Image.open('images/titanic-dicaprio-winslet.jpg')
     st.image(img)
     # display the link to that page.
-    st.write('<a href="/exploratory_data_analysis.py"> Exploratory Data Analysis</a>', unsafe_allow_html=True)
+    st.write('<a href="/exploratory_data_analysis"> Exploratory Data Analysis</a>', unsafe_allow_html=True)
 
 with col2:
     img = Image.open('images/Logitstic+regression+formula.jpg')
     st.image(img)
     # display the link to that page.
-    st.write('<a href="/titanic_model.py"> Exploratory Data Analysis</a>', unsafe_allow_html=True)
+    st.write('<a href="/titanic_model"> Exploratory Data Analysis</a>', unsafe_allow_html=True)
