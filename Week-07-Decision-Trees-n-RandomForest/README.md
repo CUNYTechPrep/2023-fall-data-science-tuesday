@@ -3,7 +3,7 @@
 ## Agenda
 0. Remind me to start recording. 
 0. In-Person Class Details. [5min]
-0. Pre-Class HW [Quiz](https://forms.gle/tWgpj6r8B3TtKPbo8) [5min]
+0. Pre-Class HW [Quiz](https://forms.gle/tWgpj6r8B3TtKPbo8) [10min]
 0. Review last weeks HW. [15min]
 0. Update your fork
 	* `git fetch upstream`
@@ -27,7 +27,7 @@ All of our in-person classes this semester will held at the [Google Community Cl
 - Professionalism: please review our guide ([Industry Partner Interaction: Student Guide](https://docs.google.com/document/d/1_2c9joKkfP4RYM6_tIwWp8ngyeyndDxvVQFMFu0AN4w/edit)) on expectations on how to interact with CTP industry partners!
 - Entrance: Enter through the doors between West Side Highway and 15th Street directly adjacent to the City Winery.
 
-![map](Week-07-Decision-Trees-n-RandomForest/data/Pier-57-Map.png)
+![map](data/Pier-57-Map.png)
 
 
 ##### Very cool example of visualizing decision trees
