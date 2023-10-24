@@ -1,0 +1,7 @@
+transformers[torch]
+transformers[tf-cpu]
+transformers[flax]
+jupyter
+scikit-learn
+plotly-express
+seaborn
