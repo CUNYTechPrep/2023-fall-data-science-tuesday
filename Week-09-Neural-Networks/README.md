@@ -3,18 +3,20 @@
 
 ## Agenda
 0. Remind me to start recording. 
-0. General reminder to check [#announcements](https://ctp2023.slack.com/archives/C05E6G6A0F3/p1698238800734259) every week. 
-0. If you land a job, you have to [fill out this form](https://forms.gle/iCHvMDLAvvdJYRpd7).  
-0. In-Person Class Details. [2min]
-0. Review last weeks HW. [10min]
-0. Update your fork
-	* `git fetch upstream`
-	* `git merge upstream/main`
-	* `git push`
-0. NN Lecture: [Link](https://docs.google.com/presentation/d/1TG4VIZXDs6tV-_6rHp42mn_hB0GA17KLtKpuBlLISqg/edit#slide=id.gd0172c51b2_0_0)[20-30min]
-0. Break [5min]
-0. Lecture Coding [40min]
-0. TEAM Breakout Rooms [30min]
+1. General reminder to check [#announcements](https://ctp2023.slack.com/archives/C05E6G6A0F3/p1698238800734259) every week. 
+2. If you land a job, you have to [fill out this form](https://forms.gle/iCHvMDLAvvdJYRpd7).  
+3. In-Person Class Details. [2min]
+4. Review last weeks HW. [10min]
+5. Update your fork
+    * `git fetch upstream`
+    * `git merge upstream/main`
+    * `git push`
+6. NN Lecture: [Link](https://docs.google.com/presentation/d/1TG4VIZXDs6tV-_6rHp42mn_hB0GA17KLtKpuBlLISqg/edit#slide=id.gd0172c51b2_0_0)[20-30min]
+7. Break [5min]
+8. Lecture Coding [40min]
+   * `pip install keras`
+   * `pip install tensorboard`
+9. TEAM Breakout Rooms [30min]
 
 ## Homework due next week 
 1. The `Exercise-NLP.ipynb` file.  Please change the name of the file to `Exercise-[YOUR INITIALS].ipynb` [~20min]
