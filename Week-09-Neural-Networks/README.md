@@ -15,11 +15,11 @@
 7. Break [5min]
 8. Lecture Coding [40min]
    * `pip install keras`
+   * `pip install tensorflow`
    * `pip install tensorboard`
 9. TEAM Breakout Rooms [30min]
 
 ## Homework due next week 
-1. The `Exercise-NLP.ipynb` file.  Please change the name of the file to `Exercise-[YOUR INITIALS].ipynb` [~20min]
 2. VERY IMPORTANT!! Pre-Class work 
 	* Watch [Getting Started with HuggingFace video](https://www.youtube.com/watch?v=QEaBAZQCtwE&ab_channel=AssemblyAI) [15min]
 	* [~1-2hrs] Start the [HuggingFace NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt) by completing the first two sections.  Part 0 and Part 1. I recommend doing the entire course, but that is up to you, however, you MUST DO PART 0 and PART 1.  
