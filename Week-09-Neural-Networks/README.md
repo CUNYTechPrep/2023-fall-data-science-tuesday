@@ -17,6 +17,7 @@
    * `pip install keras`
    * `pip install tensorflow`
    * `pip install tensorboard`
+   * [Fine Tuning VGG16 on Kaggle Notebook](https://www.kaggle.com/carlosezmez/cnn-cuny-tech-prep/edit)
 9. TEAM Breakout Rooms [30min]
 
 ## Homework due next week 
